@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore model files if you plan to store them elsewhere
+app/model.pkl
+# Ignore IDE-specific and system files
+.vscode/
+.DS_Store
+*.log
